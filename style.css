@@ -1,0 +1,84 @@
+body{
+    font-family: 'Yellowtail', cursive;
+}
+.name-highlight{
+    color: rgba(231, 42, 216, 0.952);
+}
+h1{
+    font-size:100px
+}
+p{
+    font-size:40px;
+    color: dimgray;
+}
+section{
+    height: 500px;
+    padding-bottom: 700px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 5%;
+}
+    .half-width img
+    {
+        width:120%
+    }
+    .top-banner{
+        
+        background-image: url("image/header-bg.png");
+        
+      
+    }
+    .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(red, black);
+        padding: 20px 40px;
+        border-radius: 5px;
+        color: white;
+        font-size: 25PX;
+        font-weight: 900;
+    }
+    .dream_area{
+        background-image: url("image/biography-bg.png");
+       
+    }
+    .center {
+        text-align: center;
+
+    }
+
+   
+    .column {
+        float: left;
+        width: 32%;
+        padding: 5px;
+      }
+      .LAST_HEADING{
+        text-align: center;
+      }
+      .footer-bg{
+        
+        background-image: url("image/footer-bg.png");
+        
+      
+    }
+    .last {
+        text-align: center;
+
+    }
+    
+    
+      .center {
+        margin: auto;
+        background-color: palevioletred;
+        width: 50%;
+        border: 3px black;
+        padding: 10px;
+        font-size: larger;
+      }
+
+      .latest-work-bg{
+        background-image: url("image/latest-work-bg.png");
+    }
